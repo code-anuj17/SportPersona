@@ -1,0 +1,5 @@
+model/datasets
+model/saved_model.pkl
+model/class_dictionary.json
+server/__pycache__
+UI/test_images/
